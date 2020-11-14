@@ -46,3 +46,5 @@ The following variables ```(Lines 338 - 341)``` are hard-coded default locations
     input_dir = 'input'       # The root folder where you put the raw data
     out_dir = 'output'        # Where you want the output to go - the script will use the same project/video subdirectory structurefrom the input folder
 ```
+
+Since the images are sequentially numbered it's straightforward to use a utility like ```ffmpeg``` to stitch the images together into videos from the command line if you wish. 
