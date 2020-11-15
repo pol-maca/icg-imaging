@@ -48,3 +48,9 @@ The following variables ```(Lines 338 - 341)``` are hard-coded default locations
 ```
 
 Since the images are sequentially numbered it's straightforward to use a utility like ```ffmpeg``` to stitch the images together into videos from the command line if you wish. 
+
+# Input Data
+The raw data is in the directory ```input```. It is organised by test subject ```(spe no1, spe no2)``` each test subject has a number of ``Video nn``` subdirectories, one for each tim the wavelength on the Solaris stack was changed. 
+
+The data in ```spe no1/Video 5```
+comes from a reasonably short case and is useful as a test to check if the Python script is correctly. Configured. 
