@@ -1,0 +1,14 @@
+Channel: 3 
+Wavelength: 750
+Channel: 3 
+Wavelength: 750
+Channel: 3 
+Wavelength: 750
+Channel: 3 
+Wavelength: 750
+Channel: 3 
+Wavelength: 750
+Channel: 3 
+Wavelength: 750
+Channel: 3 
+Wavelength: 750

@@ -1,0 +1,24 @@
+{
+  "StudyName": "20191114_x3-fluorescence_invivo",
+  "StudyGroupName": "",
+  "SubjectName": "spe_no1",
+  "Channel": 3,
+  "Offsets": {
+    "X": 0.0,
+    "Y": 2.0
+  },
+  "FrameFiles": [],
+  "Version": 4,
+  "DataName": "Video 5",
+  "Notes": "",
+  "Created": "2019-11-14T08:50:07.2503654Z",
+  "IsSnapshot": false,
+  "ItemType": 4,
+  "AutoScale": true,
+  "Scale": 4,
+  "Threshold": 100,
+  "IsBkgSubtracted": true,
+  "FovHasBeenCalibrated": false,
+  "Fov": 10.0,
+  "IsFullFieldOfView": true
+}
