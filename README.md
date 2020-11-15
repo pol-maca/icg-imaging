@@ -41,7 +41,7 @@ The Python script read_solaris_ir.py contains all of the code necessary to read 
     
 The following variables ```(Lines 338 - 341)``` are hard-coded default locations and search terms so we can find the Solaris SVM and SVR files and save outputs. You should to edit them to suit your project.
 ```Python
-    p_search_term = 'spe_no'  # We use a search term to navigate the raw data, you netered this in the system when you created the project
+    p_search_term = 'spe_no'  # We use a search term to navigate the raw data, you entered this when you created the project
     v_search_term = 'Video'   # Every time you reset the wavelength on the DSolaris stack a new Video XX directory is created under the project
     input_dir = 'input'       # The root folder where you put the raw data
     out_dir = 'output'        # Where you want the output to go - the script will use the same project/video subdirectory structurefrom the input folder
