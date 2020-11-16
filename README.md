@@ -56,5 +56,5 @@ The raw data is in the directory ```input```. It is organised by test subject ``
 The data in ```spe no1/Video 5```
 comes from a reasonably short case and is useful as a test to check if the Python script is correctly configured. 
 
-The resulting video from processing ```input/spe no1/Video 5``` with the Python script and then using ```ffmpeg`` to create an ```mp4``` video 
+The resulting video from processing ```input/spe no1/Video 5``` with the Python script and then using ```ffmpeg``` to create an ```mp4``` video 
 is saved in ```output/spe no1/Video 5``` as ```spe_no1_Video 5_fluorescence.mp4```.
