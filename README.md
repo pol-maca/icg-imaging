@@ -7,6 +7,7 @@ Dual emissions at ~700 and 800 nm have been achieved from a single NIR-AZA fluor
 # Links to the Paper
 Link to [ChemRxiv Preprint](https://chemrxiv.org/articles/preprint/Dual_Color_Imaging_from_a_Single_BF2-Azadipyrromethene_Fluorophore_Demonstrated_in_vivo_for_Lymph_Node_Identification/13203641)
 
+Supplementary material for the paper is located in the folder ```SI_4_Paper```. It contains four mp4 format videos containing the images used in the paper.
 # Code
 
 * This code was written and tested using Python 3.8. The Numpy, Matplotlib, Seaborn and PIL Python packages are required. *
